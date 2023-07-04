@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -27,7 +27,7 @@
 - [📝 License](#license)
 
 
-# 📖 [] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 
 **[Hello_Microverse]** is a project to learn best practices about workflow of git and github.
